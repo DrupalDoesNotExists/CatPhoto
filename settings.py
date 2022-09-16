@@ -1,0 +1,7 @@
+#
+# BadCat config
+#
+
+TOKEN = "MTAyMDQyNDg0NDczMjUzMDY4OA.Glty0m.5z0cmsmlrEc0KlxM-q5S78QEhJLrryZmlJyERk"
+PREFIX = "&"
+CHANNEL = 1020326195356762142
